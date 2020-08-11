@@ -407,6 +407,7 @@ a:active{
 }
 #abc{
     transition: 1s linear;
+    
 }
 
 #abc:hover #wrapper2{
@@ -521,6 +522,7 @@ ol{
 }
 #skill div{
     border-radius: 10px;
+    color: chartreuse;
     transition: 0.2s linear;
    
 }
